@@ -23,4 +23,6 @@ Des fichiers Excel tout prêts à l'emploi, proposés par www.planete-excel.fr, 
       Bureau distributeur
       Longitude
       Latitude
-
+      Population municipale
+      Population comptée à part
+      Population totale
