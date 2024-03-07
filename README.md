@@ -27,4 +27,4 @@ Des fichiers Excel tout prêts à l'emploi, proposés par www.planete-excel.fr, 
       Population comptée à part
       Population totale
   
-- calendriers 2024 annuel, semestriel et mensuel. Les calendriers sont fournis au format excel et PDF, en 3 couleurs différentes. Personnalisez-les grâce au format excel !
+- calendriers 2024 et 2025 annuel, semestriel et mensuel. Les calendriers sont fournis au format excel et PDF, en 3 couleurs différentes. Personnalisez-les grâce au format excel !
