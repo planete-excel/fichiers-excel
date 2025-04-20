@@ -28,3 +28,5 @@ Des fichiers Excel tout prêts à l'emploi, proposés par www.planete-excel.fr, 
       Population totale
   
 - calendriers 2025 et 2026 annuel, semestriel et mensuel. Les calendriers sont fournis au format excel et PDF, en 3 couleurs différentes. Personnalisez-les grâce au format excel !
+
+  Vous pouvez également trouver plus de modèles de calendriers Excel et PDF sur notre site www.procalendartools.com (version US) et www.fr.procalendartools.com (version française).
